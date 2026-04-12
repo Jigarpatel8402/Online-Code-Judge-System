@@ -1,0 +1,68 @@
+[
+  {
+    "username": "jigar",
+    "password": "123",
+    "results": [
+      100,
+      0
+    ],
+    "submissions": [
+      {
+        "username": "jigar",
+        "problemId": 1,
+        "userOutputs": [
+          "5",
+          "30",
+          "0"
+        ],
+        "score": 100
+      },
+      {
+        "username": "jigar",
+        "problemId": 2,
+        "userOutputs": [
+          "even",
+          "odd",
+          "even"
+        ],
+        "score": 0
+      }
+    ]
+  },
+  {
+    "username": "dhruv",
+    "password": "456",
+    "results": [],
+    "submissions": []
+  },
+  {
+    "username": "jp",
+    "password": "123",
+    "results": [
+      66,
+      0
+    ],
+    "submissions": [
+      {
+        "username": "jp",
+        "problemId": 1,
+        "userOutputs": [
+          "",
+          "30",
+          "0"
+        ],
+        "score": 66
+      },
+      {
+        "username": "jp",
+        "problemId": 2,
+        "userOutputs": [
+          "0",
+          "0",
+          "5"
+        ],
+        "score": 0
+      }
+    ]
+  }
+]
